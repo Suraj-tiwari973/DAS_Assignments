@@ -1,0 +1,23 @@
+.heading{
+    text-align: center;
+    color: purple;
+}
+table{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 15px silver;
+}
+table th,table td{
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;
+    padding:10px ;
+    
+    
+}
+
+
